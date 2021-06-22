@@ -38,8 +38,6 @@ My first language was Python and I remember doing Discord bots then I switched t
 
 - 🧠 BRAIN   
 
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
