@@ -20,8 +20,7 @@ My first language was Python and I remember doing Discord bots then I switched t
 <br/>  
 
 
-## About Me 
-<table><tr><td valign="top" width="50%">
+## About Me
 
 - ⌨️ I'm currently working on a few games!  
 
@@ -38,11 +37,8 @@ My first language was Python and I remember doing Discord bots then I switched t
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.imgur.com/HlXQPat.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+<img src="https://i.imgur.com/HlXQPat.gif" align="center" style="width: 50%" />
+</div>   
 
 <br/>  
 
