@@ -20,8 +20,7 @@ My first language was Python and I remember doing Discord bots then I switched t
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## About me 
 
 - ⌨️ I'm currently working on a few games!  
 
@@ -41,8 +40,6 @@ My first language was Python and I remember doing Discord bots then I switched t
 <img src="https://i.imgur.com/HlXQPat.gif" align="center" style="width: 100%" />
 </div>  
 
-
-</td></tr></table>  
 
 <br/>  
 
@@ -98,3 +95,6 @@ My first language was Python and I remember doing Discord bots then I switched t
 
 
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
