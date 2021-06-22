@@ -1,5 +1,12 @@
 ## Hey, I'm Chirs aka jeb47🚀  
 
+<td valign="top" width="50%">
+
+<div align="center">
+<img src="https://i.imgur.com/mTdELfO.gif" align="center" style="width: 50%" />
+</div>
+   
+</td>
 
 <a href="https://github.com/jebediah47" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -32,15 +39,6 @@ My first language was Python and I remember doing Discord bots then I switched t
 
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-<td valign="top" width="50%">
-
-<div align="center">
-<img src="https://i.imgur.com/HlXQPat.gif" align="center" style="width: 50%" />
-</div>
-   
-</td>
 
 <br/>  
 
