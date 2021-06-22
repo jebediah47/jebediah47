@@ -28,18 +28,15 @@ My first language was Python and I remember doing Discord bots then I switched t
 <br/>  
 
 
-## About Me
+## Currently using:
 
-- ⌨️ I'm currently working on a few games!  
-
-
-- 🧠 I’m learning React.js and Angular!  
+- ⌨️ OS: Windows 11 Pro
 
 
-- ❓ Ask me anything about Discord bot development and PC's.  
+- 📝 IDE: VS-Code  
 
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- 🧠 BRAIN   
 
 <br/>  
 
