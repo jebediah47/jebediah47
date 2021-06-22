@@ -82,11 +82,4 @@ My first language was Python and I remember doing Discord bots then I switched t
 
 <br/>  
 
-
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=jebediah47&&style=flat-square)  
-
-
-<br/>  
