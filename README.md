@@ -34,11 +34,13 @@ My first language was Python and I remember doing Discord bots then I switched t
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
+<td valign="top" width="50%">
 
 <div align="center">
 <img src="https://i.imgur.com/HlXQPat.gif" align="center" style="width: 50%" />
-</div>   
+</div>
+   
+</td>
 
 <br/>  
 
