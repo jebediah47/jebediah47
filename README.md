@@ -8,7 +8,7 @@
    
 </td>
 
-
+<br/>
 
 <a href="https://github.com/jebediah47" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -17,8 +17,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 
-
-
+<br/>
 
 ### Great to see you here! This is my programming journey🚗.  
 Hello, I'm Jeb a part-time developer and student! The reason I started programming is that since childhood I was always fascinated with PC's and all about tech in general, one day I saw how programs actually worked and I heard a person should do something called "programming" and I thought to myself "let's see a programming tutorial!"
