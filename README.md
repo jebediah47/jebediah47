@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://i.imgur.com/mTdELfO.gif" align="center" style="width: 50%" />
 </div>
-   
+
 </td>
 
 <br/>
@@ -52,8 +52,7 @@ My first language was Python and I remember doing Discord bots then I switched t
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="48" />  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="48" />    
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="48" />  
@@ -65,7 +64,6 @@ My first language was Python and I remember doing Discord bots then I switched t
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="48" />  
 </div>  
 
 <br/>  
@@ -74,11 +72,11 @@ My first language was Python and I remember doing Discord bots then I switched t
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jebediah47&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jebediah47&count_private=true&show_icons=true&theme=radical)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebediah47&hide_border=true&layout=compact" align="left" style="width: 100%" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jebediah47&layout=compac&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>  
 
