@@ -1,4 +1,4 @@
-**## Hey, I'm Chirs aka jeb47🚀  
+## Hey, I'm Chirs aka jeb47🚀  
 
 <td valign="top" width="50%">
 
