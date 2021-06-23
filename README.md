@@ -67,7 +67,7 @@ My first language was Python and I remember doing Discord bots then I switched t
 
 </td><td align="center" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jebediah47&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jebediah47&layout=compact&theme=radical)
 
 </td></tr></table>  
 
