@@ -63,11 +63,11 @@ My first language was Python and I remember doing Discord bots then I switched t
 ## Github Stats  
 <table><tr><td align="center" width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jebediah47&count_private=true&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jebediah47&count_private=true&show_icons=true&theme=radical)
 
 </td><td align="center" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jebediah47&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jebediah47&layout=compact&theme=radical)
 
 </td></tr></table>  
 
