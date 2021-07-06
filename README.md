@@ -29,7 +29,7 @@ My first language was Python and I remember doing Discord bots then I switched t
 - ⌨️ OS: I use Arch BTW!
 
 
-- 📝 IDE: VS-Code  
+- 📝 IDE: Neovim 
 
 
 - 🧠 BRAIN   
