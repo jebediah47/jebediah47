@@ -20,7 +20,7 @@
 <br/>
 
 ### Great to see you here! This is my programming journey🚗.  
-Hello, I'm Jeb a part-time developer and student! The reason I started programming is that since childhood I was always fascinated with PC's and all about tech in general, one day I saw how programs actually worked and I heard a person should do something called "programming" and I thought to myself "let's see a programming tutorial!"
+Hello, I'm Jeb a part-time developer and student! The reason I started programming is that since childhood I was always fascinated with PCs and all about tech in general, one day I saw how programs actually worked and I heard a person should do something called "programming" and I thought to myself "let's see a programming tutorial!"
 
 My first language was Python and I remember doing Discord bots then I switched to node.js and made some basic websites and then dove deep into the programming world and started learning a bunch of programming languages!   
 
