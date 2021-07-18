@@ -26,7 +26,7 @@ My first language was Python and I remember doing Discord bots then I switched t
 
 ## Currently using:
 
-- ⌨️ OS: I use Arch BTW!
+- ⌨️ OS: MacOS BigSur
 
 
 - 📝 IDE: Neovim 
