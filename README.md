@@ -26,10 +26,10 @@ My first language was Python and I remember doing Discord bots then I switched t
 
 ## Currently using:
 
-- ⌨️ OS: MacOS BigSur
+- ⌨️ OS: Windows 11 with WSL2
 
 
-- 📝 IDE: Neovim 
+- 📝 IDE: Webstorm
 
 
 - 🧠 BRAIN   
