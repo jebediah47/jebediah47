@@ -26,7 +26,7 @@ My first language was Python and I remember doing Discord bots then I switched t
 
 ## Currently using:
 
-- ⌨️ OS: Windows 11 with WSL2
+- ⌨️ OS: !Pop OS 21.04
 
 
 - 📝 IDE: Webstorm
