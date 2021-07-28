@@ -38,17 +38,14 @@ My first language was Python and I remember doing Discord bots then I switched t
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="48" />  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="48" />    
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="48" />    
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="48" />  
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="48" />   
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="48" />  
