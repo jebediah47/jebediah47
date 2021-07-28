@@ -29,8 +29,8 @@
         
     My first language was Python and I remember doing Discord bots then I switched to node.js and made some basic
     websites and then dove deep into the programming world and started learning a bunch of programming languages!
-    </h1>
-  </div>
+    <h1/>
+  <div/>
 <Quick introduction!/>
 ```
 
