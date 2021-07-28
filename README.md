@@ -1,4 +1,4 @@
-## Hey, I'm Chirs aka jeb47🚀  
+## Hey, I'm Chirs aka jeb47🚀
 
 <td valign="top" width="50%">
 
@@ -19,10 +19,20 @@
 
 <br/>
 
-### Great to see you here! This is my programming journey🚗.  
-Hello, I'm Jeb a part-time developer and student! The reason I started programming is that since childhood I was always fascinated with PCs and all about tech in general, one day I saw how programs actually worked and I heard a person should do something called "programming" and I thought to myself "let's see a programming tutorial!"
-
-My first language was Python and I remember doing Discord bots then I switched to node.js and made some basic websites and then dove deep into the programming world and started learning a bunch of programming languages!   
+```html
+<Quick introduction!>
+  <h1 info="Hello there I'm Chirstian aka jeb47">
+    <div class="intro">
+    Hello, I'm Jeb a part-time developer and student! The reason I started programming is that since childhood I was
+    always fascinated with PCs and all about tech in general, one day I saw how programs actually worked and I heard
+    a person should do something called "programming" and I thought to myself "let's see a programming tutorial!"
+        
+    My first language was Python and I remember doing Discord bots then I switched to node.js and made some basic
+    websites and then dove deep into the programming world and started learning a bunch of programming languages!
+    </div>
+  </h1>
+<Quick introduction end>
+```
 
 ## Currently using:
 
@@ -32,10 +42,10 @@ My first language was Python and I remember doing Discord bots then I switched t
 - 📝 IDE: Webstorm
 
 
-- 🧠 BRAIN   
+- 🧠 BRAIN
 
+## Languages and Tools
 
-## Languages and Tools  
 <div align="center">  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="48" />    
@@ -56,8 +66,8 @@ My first language was Python and I remember doing Discord bots then I switched t
 
 <br/>  
 
+## Github Stats
 
-## Github Stats  
 <table><tr><td align="center" width="50%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jebediah47&count_private=true&show_icons=true&theme=gruvbox)
