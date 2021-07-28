@@ -31,7 +31,7 @@
     websites and then dove deep into the programming world and started learning a bunch of programming languages!
     </h1>
   </div>
-<Quick introduction end>
+</Quick introduction!>
 ```
 
 ## Currently using:
