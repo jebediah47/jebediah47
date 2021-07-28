@@ -47,10 +47,10 @@
 ## Languages and Tools
 
 <div align="center">  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="48" />    
+<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="48" />      
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="48" />  
+  <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="48" />
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="48" />    
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="48" />  
