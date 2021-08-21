@@ -36,7 +36,7 @@
 
 ## Currently using:
 
-- ⌨️ OS: !Pop OS 21.04
+- ⌨️ OS: Artix Linux OpenRC
 
 
 - 📝 IDE: Webstorm
