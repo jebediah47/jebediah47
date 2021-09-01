@@ -39,7 +39,7 @@
 - ⌨️ OS: Artix Linux OpenRC
 
 
-- 📝 IDE: Webstorm
+- 📝 IDE: VSCode
 
 
 - 🧠 BRAIN
