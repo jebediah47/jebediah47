@@ -36,7 +36,7 @@
 
 ## Currently using:
 
-- ⌨️ OS: Artix Linux OpenRC
+- ⌨️ OS: Arch Linux
 
 
 - 📝 IDE: VSCode
