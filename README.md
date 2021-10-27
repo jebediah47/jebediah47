@@ -59,10 +59,6 @@
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="48" />   
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="48" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="48" />  
 </div>  
 
 <br/>  
