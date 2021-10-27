@@ -36,13 +36,14 @@
 
 ## Currently using:
 
-- ⌨️ OS: Arch Linux
+<h3 align="center">⌨️ OSes</h3>
+<p align="center"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" hspace=7><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"><p>
 
+<h3 align="center">📝 IDEs</h3>
+<p align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" hspace=7><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" hspace=7><img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"><p>
 
-- 📝 IDE: VSCode
-
-
-- 🧠 BRAIN
+<h3 align="center">🧠 BRAIN</h3>
+<p align="center"><img src="https://memegenerator.net/img/images/15057327/annoyed-kid.jpg"></p>
 
 ## Languages and Tools
 
