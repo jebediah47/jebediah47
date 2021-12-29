@@ -21,7 +21,7 @@
 
 ```html
 <Quick introduction!>
-  <div info="Hello there I'm Christian aka jeb47">
+  <div id="Hello there I'm Christian aka jeb47">
     <h1 class="intro">
     Hello, I'm Jeb a part-time developer and student! The reason I started programming is that since childhood I was
     always fascinated with PCs and all about tech in general, one day I saw how programs actually worked and I heard
