@@ -23,12 +23,12 @@
 <Quick introduction!>
   <div id="Hello there I'm Christian aka jeb47">
     <h1 class="intro">
-    Hello, I'm Jeb a part-time developer and student! The reason I started programming is that since childhood I was
-    always fascinated with PCs and all about tech in general, one day I saw how programs actually worked and I heard
-    a person should do something called "programming" and I thought to myself "let's see a programming tutorial!"
-        
-    My first language was Python and I remember doing Discord bots then I switched to node.js and made some basic
-    websites and then dove deep into the programming world and started learning a bunch of programming languages!
+    Hello, I'm Christian aka jeb a part-time developer and high-school student. I have been programming for about
+    2 years (give or take) and I primarily code in TypeScript and do mostly back-end projects. Front-end for me has
+    sucked due to my lack of creativy needed for disigning beautiful websites, but at least I'm improving...
+    
+    I also use other programming languages, such as Python, C/C++, for some random projects. I also have some
+    Docker skills but nothing too impressive. Ohh... And I'm also a hude Linux fan... Yeah, that's about it!
     <h1/>
   <div/>
 <Quick introduction!/>
