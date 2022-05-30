@@ -25,7 +25,7 @@
     <h1 class="intro">
     Hello, I'm Christian aka jeb a part-time developer and high-school student. I have been programming for about
     2 years (give or take) and I primarily code in TypeScript and do mostly back-end projects. Front-end for me has
-    sucked due to my lack of creativy needed for disigning beautiful websites, but at least I'm improving...
+    sucked due to my lack of creativy needed for designing beautiful websites, but at least I'm improving...
     
     I also use other programming languages, such as Python, C/C++, for some random projects. I also have some
     Docker skills but nothing too impressive. Ohh... And I'm also a hude Linux fan... Yeah, that's about it!
