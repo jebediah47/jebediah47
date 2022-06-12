@@ -28,7 +28,7 @@
     sucked due to my lack of creativy needed for designing beautiful websites, but at least I'm improving...
     
     I also use other programming languages, such as Python, C/C++, for some random projects. I also have some
-    Docker skills but nothing too impressive. Ohh... And I'm also a huge Linux fan... Yeah, that's about it!
+    Docker skills but nothing too impressive. And I'm also a huge Linux fan... Yeah, that's about it!
     <h1/>
   <div/>
 <Quick introduction!/>
