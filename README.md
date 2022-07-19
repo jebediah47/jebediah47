@@ -2,10 +2,10 @@
 
 <br/>
 
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 <div align="center">
-<img src="https://i.imgur.com/mTdELfO.gif" align="center" style="width: 50%" />
+<img src="https://i.imgur.com/mTdELfO.gif" align="center" style="width: 80%" />
 </div>
 
 </td>
