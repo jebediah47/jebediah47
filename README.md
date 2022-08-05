@@ -16,12 +16,11 @@
 <Quick introduction!>
   <div id="Hello there I'm Christian aka jeb47">
     <h1 class="intro">
-    Hello, I'm Christian aka jeb a part-time developer and high-school student. I have been programming for about
-    2 years (give or take) and I primarily code in TypeScript and do mostly back-end projects. Front-end for me has
-    sucked due to my lack of creativy needed for designing beautiful websites, but at least I'm improving...
-    
-    I also use other programming languages, such as Python, C/C++, for some random projects. I also have some
-    Docker skills but nothing too impressive. And I'm also a huge Linux fan... Yeah, that's about it!
+      Hello, I'm Christian aka jeb, a part-time developer and high-school student.
+      Coding is something that I really like doing and my favourite programming languages are
+      TypeScript for it's simple syntax and great type-safety, Python for it's elegant syntax
+      and huge selection of libraries and C++ for being super fast and object-oriented.
+      I am also a huge Linux fan and like software that abide to the Unix philosophy.
     <h1/>
   <div/>
 <Quick introduction!/>
