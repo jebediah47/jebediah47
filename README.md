@@ -4,9 +4,27 @@
 
 <td valign="top" width="100%">
 
-<div align="center">
-<img src="https://i.imgur.com/mTdELfO.gif" align="center" style="width: 80%" />
-</div>
+```cpp
+#include <iostream>
+
+class AboutMe {
+    private:
+    std::string username = "jebediah47";
+    std::string fullname = "Christian Llupo";
+    std::string location = "Athens, Greece";
+    std::string os = "macOS Monterey (12.5.1)";
+    public:
+    void greeting() {
+        std::cout << "👋 Hello everyone!" << std::endl;
+    };
+};
+
+int main() {
+    AboutMe aboutme;
+    aboutme.greeting();
+    return 0;
+}
+```
 
 </td>
 
