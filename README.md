@@ -12,20 +12,6 @@
 
 <br/>
 
-```html
-<Quick introduction!>
-  <div id="Hello there I'm Christian aka jeb47">
-    <h1 class="intro">
-      Hello, I'm Christian aka jeb, a part-time developer and high-school student.
-      Coding is something that I really like doing and my favourite programming languages are
-      TypeScript for it's simple syntax and great type-safety, Python for it's elegant syntax
-      and huge selection of libraries and C++ for being super fast and object-oriented.
-      I am also a huge Linux fan and like software that abide to the Unix philosophy.
-    <h1/>
-  <div/>
-<Quick introduction!/>
-```
-
 ## Currently using:
 
 <h3 align="center">⌨️ OSes</h3>
