@@ -12,7 +12,7 @@ class AboutMe {
     std::string username = "jebediah47";
     std::string fullname = "Christian Llupo";
     std::string location = "Athens, Greece";
-    std::string os = "macOS Monterey (12.6)";
+    std::string os = "Debian Linux Bookworm";
     public:
     void greeting() {
         std::cout << "👋 Hello everyone!" << std::endl;
