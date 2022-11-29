@@ -4,24 +4,11 @@
 
 <td valign="top" width="100%">
 
-```cpp
+```hs
 #include <iostream>
 
-class AboutMe {
-    private:
-    std::string username = "jebediah47";
-    std::string fullname = "Christian Llupo";
-    std::string location = "Athens, Greece";
-    std::string os = "Debian Linux Bookworm";
-    public:
-    void greeting() {
-        std::cout << "👋 Hello everyone!" << std::endl;
-    };
-};
-
 int main() {
-    AboutMe aboutme;
-    aboutme.greeting();
+    std::cout << "Welcome to my GitHub!" << std::endl;
     return 0;
 }
 ```
