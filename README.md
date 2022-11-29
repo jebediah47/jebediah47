@@ -4,12 +4,26 @@
 
 <td valign="top" width="100%">
 
-```hs
-#include <iostream>
+```cs
+// This code doesn't work 💩
+using System.Text.Json;
 
-int main() {
-    std::cout << "Welcome to my GitHub!" << std::endl;
-    return 0;
+sealed class AboutMe {
+    public int Age = 14;
+    public string[] Languages = { "🇬🇷", "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "🇦🇱" };
+    public string CurrentLocation = "Athens, Greece";
+    public string FutureGoal = "To contribute more to OSS";
+    
+    private string Serialize()
+    {
+        return JsonSerializer.Serialize(this);
+    }
+    
+    public static void Main(string[] args)
+    {
+        AboutMe aboutMe = new();
+        Console.WriteLine(aboutMe.Serialize());
+    }
 }
 ```
 
