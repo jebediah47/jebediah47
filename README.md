@@ -4,27 +4,23 @@
 
 <td valign="top" width="100%">
 
-```cs
-// This code doesn't work 💩
-using System.Text.Json;
+```ts
+class AboutMe {
+  // Singleton instance
+  public static instance = new AboutMe();
+  
+  public age: number = 14;
+  public languages: string[] = ["Greek", "󠁧󠁢English", "Albanian"];
+  public currentLocation: string = "Athens, Greece";
+  public futureGoal: string = "Touch grass and get a life";
 
-sealed class AboutMe {
-    public int Age = 14;
-    public string[] Languages = { "🇬🇷", "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "🇦🇱" };
-    public string CurrentLocation = "Athens, Greece";
-    public string FutureGoal = "To contribute more to OSS";
-    
-    private string Serialize()
-    {
-        return JsonSerializer.Serialize(this);
-    }
-    
-    public static void Main(string[] args)
-    {
-        AboutMe aboutMe = new();
-        Console.WriteLine(aboutMe.Serialize());
-    }
+  public toJson(): string {
+    return JSON.stringify(this);
+  }
 }
+
+// Log output to console
+console.log(`${AboutMe.instance.toJson()}`);
 ```
 
 </td>
