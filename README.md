@@ -9,7 +9,7 @@ class AboutMe {
   // Singleton instance
   public static instance = new AboutMe();
   
-  public age: number = 14;
+  public age: number = 15;
   public languages: string[] = ["Greek", "󠁧󠁢English", "Albanian"];
   public currentLocation: string = "Athens, Greece";
   public futureGoal: string = "Don't have one, I be good rn";
