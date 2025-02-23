@@ -11,7 +11,7 @@ class AboutMe {
   
   public languages: string[] = ["Greek", "󠁧󠁢English", "Albanian"];
   public currentLocation: string = "Athens, Greece";
-  public futureGoal: string = "Don't have one, I be good rn";
+  public futureGoal: string = "Get into a University here in Athens";
 
   public toJson(): string {
     return JSON.stringify(this);
