@@ -88,18 +88,4 @@ console.log(`${AboutMe.instance.toJson()}`);
 
 <br/>  
 
-## Github Stats
-
-<table><tr><td align="center" width="50%">
-
-![](https://github-readme-stats.vercel.app/api?username=jebediah47&count_private=true&show_icons=true&theme=gruvbox)
-
-</td><td align="center" width="50%">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jebediah47&layout=compact&theme=gruvbox)
-
-</td></tr></table>  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=jebediah47&&style=flat-square)  
