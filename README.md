@@ -28,7 +28,7 @@ console.log(`${AboutMe.instance.toJson()}`);
 
 ## Currently using:
 
-<h3 align="center">⌨️ OSes</h3>
+<h3 align="center">👨🏻‍💻 OSes</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
   <img src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white">
@@ -39,8 +39,7 @@ console.log(`${AboutMe.instance.toJson()}`);
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
 </p>
 
-## Languages and Tools
-
+<h3 align="center">🧰 Languages and Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></img>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></img>
@@ -56,8 +55,7 @@ console.log(`${AboutMe.instance.toJson()}`);
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></img>
 </div>
 
-## Infrastructure
-
+<h3 align="center">🏗️ Infrastructure</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></img>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></img>
